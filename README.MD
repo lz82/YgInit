@@ -2,6 +2,7 @@
 `YgInit`is a command-line utility which allow the user to interactively initializes a gitlab repository in the current folder.
 
 # Usage
+0. use `Yginit -name='reponame' -desc='repo desc' or Yginit -n="reponame" -d="repo desc"
 1. enter your gitlab url, e.g: git.xxx.com
 2. enter your username & password
 3. choice your group
