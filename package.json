@@ -1,9 +1,10 @@
 {
   "name": "yginit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "bin": {
     "yginit": "./index.js"
   },
+  "repository": "https://github.com/lz82/YgInit",
   "description": "a cli for init pro in gitlab",
   "main": "index.js",
   "scripts": {
@@ -25,7 +26,7 @@
     "inquirer": "^6.2.0",
     "lodash": "^4.17.10",
     "minimist": "^1.2.0",
-    "simple-git": "^1.96.0",
-    "touch": "^3.1.0"
+    "request": "^2.88.0",
+    "simple-git": "^1.96.0"
   }
 }
