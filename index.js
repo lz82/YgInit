@@ -21,7 +21,7 @@ const repo     = require('./lib/repo.js');
 // 清除屏幕
 clear();
 
-// 打印欢迎
+// 打印Banner
 console.log(
   chalk.yellow(
     figlet.textSync('Welcome To Use YgInit', {

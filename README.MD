@@ -9,5 +9,11 @@
 4. enter your repo name
 5. enter your repo desc
 6. choice your repo type
-7. choice ignore file or folder
-8. done!
+7. choice project type (in order to .gitignore file)
+8. done
+
+# tips
+`.gitignore`file is come from [github/gitignore](https://github.com/github/gitignore)
+
+# blog
+[blog](https://liuzhuang.coding.me/2018/09/01/Build-a-JavaScript-Command-Line-Interface-CLI-with-Node-js/)
